@@ -1,0 +1,17 @@
+permissions: [
+    {
+        pName:"user",
+        pValue:[0,1,2,3]0->create,1->read,2->edit,3->delete
+    },
+    {
+        pName:"post",
+        pValue:[0,1,2,]0->create,1->read,2->edit
+    },
+    {
+        pName:"category",
+        pValue:[0,2] 0->create,2->edit
+    },
+],
+
+username:admin@gmail.com
+password:Admin@123
